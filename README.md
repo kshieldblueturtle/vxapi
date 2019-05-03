@@ -1,6 +1,13 @@
 # 참고자료
 https://github.com/PayloadSecurity/VxAPI.git <br/>
 
+# 실행
+```
+python download.py
+```
+
+<br/>
+
 # 과정
 1. fork https://github.com/PayloadSecurity/VxAPI.git <br/>
 2. add download.py <br/>
